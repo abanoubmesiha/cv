@@ -166,13 +166,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Car Rent",
+        "title":"Delivery UI Challenge",
         "description":"App",
         "category":"React.js",
         "tags":"Service App",
-        "image":"car-rent.jpg",
-        "url":"https://car-rent.netlify.com/",
-        "modal":"#modal-10"
+        "image":"delivery.jpg",
+        "url":"https://delivery-bootstrap.netlify.app/",
+        "modal":"#modal-13"
+      },
+      {
+        "title":"Terkwaz",
+        "description":"digital services",
+        "category":"React.js",
+        "tags":"web app",
+        "image":"terkwaz.jpg",
+        "url":"https://terqwaz.netlify.com/",
+        "modal":"#modal-01"
       },
       {
         "title":"Jotto App",
@@ -184,13 +193,13 @@
         "modal":"#modal-00"
       },
       {
-        "title":"Terkwaz",
-        "description":"digital services",
+        "title":"Car Rent",
+        "description":"App",
         "category":"React.js",
-        "tags":"web app",
-        "image":"terkwaz.jpg",
-        "url":"https://terqwaz.netlify.com/",
-        "modal":"#modal-01"
+        "tags":"Service App",
+        "image":"car-rent.jpg",
+        "url":"https://car-rent.netlify.com/",
+        "modal":"#modal-10"
       },
       {
         "title":"M-Task",
