@@ -21,7 +21,16 @@ class Resume extends Component {
            <div className="twelve columns">
               <h3>{c.name}</h3>
               <p className="info">{c.date}</p>
-              <a href={c.link}>{c.link}</a>
+              <a href={c.link} target="_blank">
+               {c.img
+                  ?<img
+                     src={"images/certificates/" + c.img}
+                     alt="certificate"
+                     width={400}
+                  />
+                  :c.link
+               }  
+               </a>
            </div>
         </div>
       });

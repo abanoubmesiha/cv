@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Abanoub Ayoub",
-    "occupation":"Front End Web Developer At ",
+    "occupation":"Front End Web Developer",
     "company":"Terkwaz Business Solutions. ",
     "companyLink":"https://terkwaz.com/",
-    "description":"I am a Front-end Developer, who was able to contribute, establish and maintin large projects (+100 pages) and add features to other mid-size projects in USA and Middle East",
+    "description":"I am a JS Full Stack Developer, who was able to contribute, establish and maintain large projects (+100 pages) and add features to other mid-size projects in the USA and the Middle East",
     "image":"profilepic.jpg",
-    "bio":"I am a detailed-oriented senior front-end developer, who can handle stressful times professionally, easy to follow strict rules, and the man who completes the most hated tasks.",
+    "bio":"I am a detailed-oriented senior JS full stack developer, who can handle stressful times professionally, easy to follow strict rules, and the man who completes the most hated tasks.",
     "email": "bony.nagy@gmail.com",
     "phone": "012-77-041-971",
     "address":{
@@ -52,7 +52,9 @@
     "courses":[
       {
         "name":"CS50",
-        "date":"Jan 2020"
+        "date":"Jan 2020",
+        "link":"https://courses.edx.org/certificates/5b9edaf1b60345f6818b883b8f1a08ad",
+        "img": "CS50.png"
       },
       {
         "name":"React Testing with Jest and Enzyme",
@@ -86,7 +88,7 @@
       },
       {
         "name":"Jest",
-        "level":"50%"
+        "level":"90%"
       },
       {
         "name":"Angular",
@@ -98,27 +100,27 @@
       },
       {
         "name":"Javascript",
-        "level":"85%"
+        "level":"95%"
       },
       {
         "name":"ES6",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Redux",
-        "level":"75%"
+        "level":"90%"
       },
       {
-        "name":"MonogoDB",
-        "level":"50%"
+        "name":"MonogoDB & Mongoose",
+        "level":"70%"
       },
       {
         "name":"Express.js",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"Node.js",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"jQuery",
@@ -134,11 +136,11 @@
       },
       {
         "name":"CSS3",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"Bootstrap",
-        "level":"50%"
+        "level":"95%"
       },
       {
         "name":"Sass",
