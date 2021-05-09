@@ -276,12 +276,12 @@
         "modal":"#modal-03"
       },
       {
-        "title":"Mybrary",
+        "title":"Warranty Maintenance Company",
         "description":"Back end",
         "category":"Node.js",
         "tags":"web app",
-        "image":"mybrary.png",
-        "url":"https://mybrary-backend.herokuapp.com/",
+        "image":"war.png",
+        "url":"https://warranty-maintenance-company.herokuapp.com/",
         "modal":"#modal-08"
       },
       {
