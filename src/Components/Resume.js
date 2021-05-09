@@ -21,7 +21,7 @@ class Resume extends Component {
            <div className="twelve columns">
               <h3>{c.name}</h3>
               <p className="info">{c.date}</p>
-              <a href={c.link} target="_blank">
+              <a href={c.link} target="_blank" rel="noopener noreferrer">
                {c.img
                   ?<img
                      src={"images/certificates/" + c.img}
