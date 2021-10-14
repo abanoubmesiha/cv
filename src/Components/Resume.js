@@ -20,7 +20,8 @@ class Resume extends Component {
         return <div key={i} className="row item">
            <div className="twelve columns">
               <h3>{c.name}</h3>
-              <p className="info">{c.date}</p>
+              <p className="info">By {c.by}</p>
+              <p>{c.date}</p>
               <a href={c.link} target="_blank" rel="noopener noreferrer">
                {c.img
                   ?<img
