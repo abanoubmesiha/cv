@@ -16,7 +16,7 @@
       "zip": ""
     },
     "website": "https://app.netlify.com/teams/abanoubmesiha/sites",
-    "resumedownload":"https://www.dropbox.com/s/ufgb8zylwbovres/abanoub%20ayoub%20cv.docx?dl=0",
+    "resumedownload":"https://docs.google.com/document/d/14CdOzyvOVlSqXkvHo--0gMmI-e13zCZQ/edit",
     "social":[
       {
         "name":"facebook",
@@ -51,7 +51,14 @@
     ],
     "courses":[
       {
+        "name":"React JS - React Tutorial for Beginners",
+        "by": "Mosh Hamedani",
+        "date":"August 2018",
+        "link":"https://www.youtube.com/watch?v=Ke90Tje7VS0"
+      },
+      {
         "name":"CS50",
+        "by": "edx.org, Harvard University",
         "date":"Jan 2020",
         "link":"https://courses.edx.org/certificates/5b9edaf1b60345f6818b883b8f1a08ad",
         "img": "CS50.png"
@@ -59,7 +66,18 @@
       {
         "name":"React Testing with Jest and Enzyme",
         "date":"October 2020",
-        "link":"https://www.udemy.com/course/react-testing-with-jest-and-enzyme/"
+        "link":"https://www.udemy.com/course/react-testing-with-jest-and-enzyme/",
+        "by": "Bonnie Schulkin"
+      },
+      {
+        "name":"NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+        "date":"March 2021",
+        "link":"https://www.udemy.com/course/nodejs-the-complete-guide/",
+        "by": "Maximilian Schwarzmuller"
+      },
+      {
+        "name":"React Native (IN PROGRESS...)",
+        "by": "Mosh Hamedani"
       }
     ],
     "work":[
