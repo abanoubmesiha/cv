@@ -4,9 +4,13 @@
     "occupation":"Front End Web Developer",
     "company":"Terkwaz Business Solutions. ",
     "companyLink":"https://terkwaz.com/",
-    "description":"I am a JS Full Stack Developer, who was able to contribute, establish and maintain large projects (+100 pages) and add features to other mid-size projects in the USA and the Middle East",
+    "description":"JS Full Stack Developer, who was able to contribute, establish and maintain large projects (+100 pages) and add features to other mid-size projects in the USA and the Middle East",
     "image":"profilepic.jpg",
-    "bio":"I am a detailed-oriented senior JS full stack developer, who can handle stressful times professionally, easy to follow strict rules, and the man who completes the most hated tasks.",
+    "bio":[
+      "Abanoub had a passion for the web since I was young and fell in love with front-end development and all the new technologies coming to the browsers.",
+      "Also have built a lot of websites and applications for people and companies across the globe and helped many with troubleshooting/consultations about problems they have.",
+      "And beginning to develop a passion for back-end web development, deployment, and artificial intelligence"
+    ],
     "email": "bony.nagy@gmail.com",
     "phone": "012-77-041-971",
     "address":{
@@ -16,7 +20,7 @@
       "zip": ""
     },
     "website": "https://app.netlify.com/teams/abanoubmesiha/sites",
-    "resumedownload":"https://docs.google.com/document/d/14CdOzyvOVlSqXkvHo--0gMmI-e13zCZQ/edit",
+    "resumedownload":"https://docs.google.com/document/d/1sS6DGhPxu__4TfJZsrRiwvMJfsFjkOT7/",
     "social":[
       {
         "name":"facebook",
@@ -51,17 +55,19 @@
     ],
     "courses":[
       {
-        "name":"React JS - React Tutorial for Beginners",
-        "by": "Mosh Hamedani",
-        "date":"August 2018",
-        "link":"https://www.youtube.com/watch?v=Ke90Tje7VS0"
-      },
-      {
         "name":"CS50",
         "by": "edx.org, Harvard University",
         "date":"Jan 2020",
         "link":"https://courses.edx.org/certificates/5b9edaf1b60345f6818b883b8f1a08ad",
         "img": "CS50.png"
+      }
+    ],
+    "courses2":[
+      {
+        "name":"React JS - React Tutorial for Beginners",
+        "by": "Mosh Hamedani",
+        "date":"August 2018",
+        "link":"https://www.youtube.com/watch?v=Ke90Tje7VS0"
       },
       {
         "name":"React Testing with Jest and Enzyme",
@@ -87,8 +93,16 @@
         "title":"Front End Developer",
         "from":"04/2020",
         "to":"now",
-        "description":"",
-        "description2":["Joind the Front-end team of creating and maintaing blinklos.com", "Add features to Hemma, Riot, and Careers. (Terkwaz Projects)"]
+        "managed":[
+          "Create and maintain a +100 pages loan origination system located in USA, Blinklos.com, with other 3 front-end devs.",
+          "Implement many features and reusable components and work with D3 in Blinklos.com application.",
+          "Fix some bugs in an online website, hemma.sa, in production that I didn’t work on before.",
+          "Create and maintain two projects, Gokwaz.com and Makanat.com, with other 2 front-end devs.",
+          "Add a google maps API feature to Makanat.com.",
+          "Use git submodules to share it between mobile and web code.",
+          "Work with ESlint rules on all projects."
+        ],
+        "technologies":"React.js, Redux, React Router, Typescript, ESlint, Jest and Enzyme, Axios, Git, Node.js, Mongoose, Bootstrap, Reactstrap, Sass, Scss, Jira, DigitalOcean, Bitbucket"
       },
       {
         "company":"DHS Arabia",
@@ -96,26 +110,15 @@
         "title":"Front End Developer",
         "from":"01/2019",
         "to":"04/2020",
-        "description":"Working on MVC Core Views for DHS Arabia using bootstrap and javascript and put the foundations for a React project"
+        "managed":[
+          "Fix many bugs of features implemented by other developers that left the company.",
+          "Add new features like selecting a tooth number from a canvas. ",
+          "Implement all features in Vanilla Javascript as requested by the manager"
+        ],
+        "technologies":"Vanilla Javascript, CSS3, Bootstrap, HTML5, Ajax, Git, MVC Core, Blazor, Azure"
       }
     ],
     "skills":[
-      {
-        "name":"React",
-        "level":"95%"
-      },
-      {
-        "name":"Jest",
-        "level":"90%"
-      },
-      {
-        "name":"Angular",
-        "level":"35%"
-      },
-      {
-        "name":"MVC Core Views",
-        "level":"40%"
-      },
       {
         "name":"Javascript",
         "level":"95%"
@@ -125,20 +128,48 @@
         "level":"90%"
       },
       {
+        "name":"React",
+        "level":"95%"
+      },
+      {
         "name":"Redux",
         "level":"90%"
+      },
+      {
+        "name":"Jest",
+        "level":"90%"
+      },
+      {
+        "name":"Enzyme",
+        "level":"50%"
+      },
+      {
+        "name":"Node.js",
+        "level":"70%"
+      },
+      {
+        "name":"Express.js",
+        "level":"70%"
       },
       {
         "name":"MonogoDB & Mongoose",
         "level":"70%"
       },
       {
-        "name":"Express.js",
-        "level":"80%"
+        "name":"Swagger",
+        "level":"70%"
       },
       {
-        "name":"Node.js",
-        "level":"80%"
+        "name":"Angular",
+        "level":"35%"
+      },
+      {
+        "name":"Github",
+        "level":"90%"
+      },
+      {
+        "name":"MVC Core Views/Blazor",
+        "level":"40%"
       },
       {
         "name":"jQuery",
@@ -165,6 +196,10 @@
         "level":"75%"
       },
       {
+        "name":"SCSS",
+        "level":"75%"
+      },
+      {
         "name":"Webpack",
         "level":"35%"
       },
@@ -177,10 +212,13 @@
         "level":"90%"
       },
       {
-        "name":"Github",
-        "level":"90%"
+        "name":"DigitalOcean",
+        "level":"50%"
+      },
+      {
+        "name":"Google Cloud Console",
+        "level":"50%"
       }
-      
     ]
   },
   "portfolio":{
@@ -188,10 +226,10 @@
       {
         "title":"Delivery UI Challenge",
         "description":"App",
-        "category":"React.js",
+        "category":"React.js UI",
         "tags":"Service App",
         "image":"delivery.jpg",
-        "url":"https://delivery-bootstrap.netlify.app/",
+        "url":"https://ui-challenge-dot-cool-adviser-307212.oa.r.appspot.com/",
         "modal":"#modal-13"
       },
       {
@@ -299,7 +337,7 @@
         "category":"Node.js",
         "tags":"web app",
         "image":"war.png",
-        "url":"https://warranty-maintenance-company.herokuapp.com/",
+        "url":"https://warranty-maintenance-company-dot-cool-adviser-307212.oa.r.appspot.com/api-docs/",
         "modal":"#modal-08"
       },
       {

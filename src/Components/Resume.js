@@ -42,8 +42,12 @@ class Resume extends Component {
               <h3><a href={job.companyLink} className="companylink" target="_blank" rel="noopener noreferrer">{job.company}</a></h3>
               <p className="info">{job.title}</p>
               <p>From {job.from} to {job.to}</p>
-              {job.description && <p>- {job.description}</p>}
-              {job.description2 && job.description2.map(d=><p>- {d}</p>)}
+              <h6>Managed to</h6>
+              <ul>
+               {job.managed.map(li => <li>{li}</li>)}
+              </ul>
+              <h6>Technologies</h6>
+              <p>{job.technologies}</p>
            </div>
         </div>
       });
@@ -90,8 +94,6 @@ class Resume extends Component {
             <h1><span>Skills</span></h1>
          </div>
          <div className="nine columns main-col">
-            <p>Self-learning skills :-
-            </p>
 				<div className="bars">
 				   <ul className="skills">
 					  {skills}
