@@ -278,6 +278,14 @@ ul#nav li.current a { color: #8bc34a; }
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+#resume .row.item:not(:last-child) {
+   border-bottom: 1px dashed lightgray;
+   margin-bottom: 40px;
+   padding-bottom: 40px;
+}
+#resume p {
+   margin-bottom: 0;
+}
 
 /*----------------------------------------------*/
 /*	Skill Bars
